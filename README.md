@@ -2,7 +2,8 @@
 This program solves 14 puzzle problems in the shortest amount of moves. It uses A* Graph Search strategy to accomplish this. 
 To use this program, create an input text file in the same directory named "board.txt" with the board configuration in the 
 following format: 
-a a a a\ 
+a a a a
+
 b b b b\ 
 c c c c\ 
 d d d d\ 
