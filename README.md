@@ -4,11 +4,8 @@ To use this program, create an input text file in the same directory named "boar
 following format: 
 
 a a a a
-
 b b b b
-
 c c c c
-
 d d d d
 
 The output will be created in a separate text file in the same directory. 14-puzzle problem: On a 4 x 4 board there are 14 
