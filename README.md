@@ -8,10 +8,10 @@ e f g h
 i j k l  
 m n o p  
 
-q r s t\n
-u v w x
-y z a1 a2
-a3 a4 a5 a6
+q r s t\
+u v w x\
+y z a1 a2\
+a3 a4 a5 a6\
 
 The output will be created in a separate text file in the same directory. 14-puzzle problem: On a 4 x 4 board there are 14 
 tiles numbered from 1 to 14 and two blank positions. A tile can slide into any of the two blank positions if it is horizontally
